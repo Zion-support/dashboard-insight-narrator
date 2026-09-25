@@ -32,5 +32,15 @@ Executives and business teams who want the story behind the charts without diggi
 - [etl-pipeline-monitor](https://github.com/Zion-support/etl-pipeline-monitor) — https://ziontechgroup.com/etl-pipeline-monitor/
 - [newsletter-growth-copilot](https://github.com/Zion-support/newsletter-growth-copilot) — turn insights into content: https://ziontechgroup.com/newsletter-growth-copilot/
 
+
+## 📈 Data Operations & Observability AI Suite
+This app is part of the interlinked Data Operations & Observability AI suite:
+- Suite landing page: https://ziontechgroup.com/ai-data-observability-suite/
+- Category page: https://github.com/Zion-support/zion-network/blob/main/network/data-observability-ai.md
+- Registry: https://github.com/Zion-support/zion-network/blob/main/network/data-observability-apps.json
+- Spotlight: https://github.com/Zion-support/zion-network/blob/main/spotlights/data-observability.md
+
+Suite apps: [Data Catalog Copilot](https://ziontechgroup.com/data-catalog-copilot/) · [Data Quality Watchdog](https://ziontechgroup.com/data-quality-watchdog/) · [ETL Pipeline Monitor](https://ziontechgroup.com/etl-pipeline-monitor/) · [Metric Anomaly Alerter](https://ziontechgroup.com/metric-anomaly-alerter/) · [Dashboard Insight Narrator](https://ziontechgroup.com/dashboard-insight-narrator/) · [Report Scheduler AI](https://ziontechgroup.com/report-scheduler-ai/) · [API Health Probe](https://ziontechgroup.com/api-health-probe/) · [Cloud Cost Estimator](https://ziontechgroup.com/cloud-cost-estimator/) · [Cloud Architect Diagram Builder](https://ziontechgroup.com/cloud-architect-diagram-builder/)
+
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
